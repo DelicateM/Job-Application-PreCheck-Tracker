@@ -67,6 +67,8 @@ Step 3: pip install streamlit
 RUN(type in the terminal)
 streamlit run app.py
 
+# DIAGRAM
+
 ![System Flow Diagram](diagrams/system%20flow.png)
 
 # STEP 1: COLLECT PROFILE
